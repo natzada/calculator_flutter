@@ -29,7 +29,7 @@ Este projeto é uma calculadora funcional e estilizada desenvolvida em Flutter. 
 
 ## 📚 Estrutura do Projeto
 ```
-CalculadoraFlutter/
+Calculadora/
 │── lib/
 │   ├── main.dart  # Arquivo principal do aplicativo
 │── assets/
