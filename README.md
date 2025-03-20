@@ -10,9 +10,6 @@ Este projeto é uma calculadora funcional e estilizada desenvolvida em Flutter. 
   - Exponenciação (x^y)
   - Raiz quadrada (sqrt)
   - Logaritmo (log)
-  - Seno (sin)
-  - Cosseno (cos)
-  - Tangente (tan)
   - Fatorial (!)
 - Tratamento de erros para entradas inválidas.
 
@@ -40,7 +37,7 @@ Calculadora/
 ## 🚀 Como Executar o Projeto
 1. **Clone o repositório**:
    ```sh
-   git clone https://github.com/seuusuario/calculadora_flutter.git
+   git clone https://github.com/natzada/calculator_flutter.git
    ```
 2. **Acesse o diretório do projeto**:
    ```sh
